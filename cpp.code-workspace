@@ -1,0 +1,55 @@
+{
+  "folders": [
+	{
+		"path": "../cpp"
+	},
+	{
+		"path": "../Frontend/HTML pamoka"
+	},
+	{
+		"path": "../Frontend/CSS_1 pamoka"
+	},
+	{
+		"path": "../Frontend/CSS_2 pamoka"
+	},
+	{
+		"path": "../Frontend/CSS_3 pamoka"
+	},
+	{
+		"path": "../Frontend/CSS_4 pamoka"
+	},
+	{
+		"path": "../Frontend/CSS_5 pamoka"
+	},
+	{
+		"path": "../Frontend/CSS_6 pamoka"
+	},
+	{
+		"path": "../Frontend/CSS_7 pamoka"
+	},
+	{
+		"path": "../Frontend/CSS_8 pamoka"
+	},
+	{
+		"path": "../Frontend/CSS_9 pamoka"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "files.associations": {
+      "array": "cpp",
+      "string_view": "cpp",
+      "initializer_list": "cpp",
+      "ostream": "cpp",
+      "iostream": "cpp",
+      "deque": "cpp",
+      "string": "cpp",
+      "unordered_map": "cpp",
+      "vector": "cpp",
+      "cmath": "cpp",
+      "map": "cpp"
+    }
+  }
+}
